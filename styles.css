@@ -1,0 +1,63 @@
+ Reseteo básico 
+ {
+  margin 0;
+  padding 0;
+  box-sizing border-box;
+}
+
+ Estilos del cuerpo 
+body {
+  font-family Arial, sans-serif;
+  line-height 1.6;
+  background-color #f4f4f9;
+  color #333;
+  padding 20px;
+  text-align center;
+}
+
+ Estilos del encabezado 
+header {
+  margin-bottom 20px;
+}
+
+header h1 {
+  font-size 2.5rem;
+  color #4CAF50;
+}
+
+header p {
+  font-size 1.2rem;
+  color #666;
+}
+
+ Estilos del botón 
+button {
+  background-color #4CAF50;
+  color white;
+  border none;
+  padding 10px 20px;
+  font-size 1rem;
+  cursor pointer;
+  border-radius 5px;
+  margin-top 10px;
+}
+
+buttonhover {
+  background-color #45a049;
+}
+
+ Estilos del pie de página 
+footer {
+  margin-top 20px;
+  font-size 0.9rem;
+  color #999;
+}
+
+footer a {
+  color #4CAF50;
+  text-decoration none;
+}
+
+footer ahover {
+  text-decoration underline;
+}
